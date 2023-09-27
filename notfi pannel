@@ -1,0 +1,27 @@
+// When music starts
+
+When I receive
+{
+wait 4 seconds
+show
+wait 2 seconds
+hide
+}
+
+// When a link is coppied
+{
+switch to costume-2
+show
+wait 3 seconds
+}
+
+// When connected to server
+
+when I receive
+{
+switch to costume-3
+wait 5 seconds
+show
+wait 3 seconds
+hide
+}
