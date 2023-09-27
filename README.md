@@ -6,4 +6,6 @@ Code is created by Tetraverse's team and packeged by the amazing devs over at Tu
 
 # Latest update
 
-Alpha 1
+Alpha 2
+
+
